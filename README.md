@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Jesus Diaz</h1>
-<h3 align="center">A passionate System engineer from Colombia</h3>
 
 - 💬 Ask me about **React, Vue, Django, Terraform, AWS, Bash, Linux, Python, Javascript, Kubernetes**
 - 🌱 I’m currently learning DevOps
